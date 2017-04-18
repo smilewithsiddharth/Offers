@@ -1,0 +1,64 @@
+{
+    "data": {
+		"conditions": [
+            {  
+			   "id":0,
+			   "url":"http://188.166.86.83/",
+			   "version":1,
+			   "heading":"Update",
+			   "description":"Download our latest update"
+			}
+        ],
+        "offer": [
+            {
+			   "sno":"1",
+			   "url":"http://www.srmuniv.ac.in/sites/default/files/images/shuru_banner.jpg",
+			   "name":"Shuru: The Icebreaker",
+			   "description": "Some random ass long shit to test the alert dialog box. \n also testing the new line.",
+			   "link": ""
+			   
+			},
+
+			{
+			   "sno":"2",
+			   "url":"http://www.onspon.com/event/pics/650586495_10571942_708678552562203_3526222399449072482_o.jpg",
+			   "name":"Milan: The Cultural Fest",
+			   "description": "Some random ass long shit to test the alert dialog box. \n also testing the new line.",
+			   "link": ""
+			},
+			{
+			   "sno":"3",
+			   "url":"http://poolio.in/srmimages/ads.jpg",
+			   "name":"Post Advertisement",
+			   "description": "Some random ass long shit to test the alert dialog box. \n also testing the new line.",
+			   "link": "https://www.google.com"
+			}
+
+        ],
+        "announcement": [
+            {
+			   "sno":"1",
+			   "text": "Announcement 1"
+			   
+			},
+
+			{
+			   "sno":"2",
+			   "text": "Announcement 2"
+			   
+			},
+			{
+			   "sno":"3",
+			   "text": "Announcement 3"
+			   
+			},
+			{
+			   "sno":"4",
+			   "text": "Announcement 4"
+			   
+			}
+
+
+        ]
+    }
+}
