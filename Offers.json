@@ -13,6 +13,23 @@
             
 
         ],
-        "announcement": []
+        "announcement": [
+		{
+			   "sno":"1",
+			   "text": "Thanks for downloading SRM EZY, all are previous app versions will be discontinued after 28th april. Share this message with your friends."
+			   
+			},
+
+			{
+			   "sno":"2",
+			   "text": "Bored of evaristy website? Try out Xvarsity: evarsity with awesome UI.\n https://xvarsity.srmuniv.me/"
+			   
+			},
+			{
+			   "sno":"3",
+			   "text": "All the best for your CT2 examinations."
+			   
+			}
+	]
     }
 }
