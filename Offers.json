@@ -36,19 +36,13 @@
 
         ],
         "announcement": [
-		{
-			   "sno":"1",
-			   "text": "Sorry for inconvenience.\nCollege server is on maintainance, we will notify you as soon as it will recover."
-			   
-			},
-
 			{
-			   "sno":"2",
+			   "sno":"1",
 			   "text": "Bored of evaristy website? Try out Xvarsity: evarsity with an awesome UI.\nhttps://xvarsity.srmuniv.me/"
 			   
 			},
 			{
-			   "sno":"3",
+			   "sno":"2",
 			   "text": "All the best for your university exams."
 			   
 			}
