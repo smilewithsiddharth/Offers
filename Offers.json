@@ -2,11 +2,11 @@
     "data": {
 		"conditions": [
             {  
-			   "id":0,
+			   "id":1,
 			   "url":"http://188.166.86.83/",
 			   "version":1,
-			   "heading":"Update",
-			   "description":"Download our latest update"
+			   "heading":"Maintenance",
+			   "description":"App is under maintenance. Please be patient."
 			}
         ],
         "offer": [
