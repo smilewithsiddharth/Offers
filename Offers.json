@@ -12,6 +12,13 @@
         "offer": [
 			{
 			   "sno":"1",
+			   "url":"https://armyandro.github.io/Offers/Web.jpg",
+			   "name":"Indian Youth Conclave 2017 - Chennai",
+			   "description": "Featuring 30+ Speakers | 2 Days | Workshops | Spaces | Startup Expo | Internships | Comedians | LitFest | Live Performances | Music | Technology | Changemakers | Theatre | Open Mics  | And YOU. Register now!!",
+			   "link": "https://docs.google.com/forms/d/1tH1g5z_lZ_W5NYXR0fsav1h5LgaZxsbasI5eE1FmfUA/viewform?ts=5997cb61&edit_requested=true"
+			},
+			{
+			   "sno":"2",
 			   "url":"http://poolio.in/srmimages/srmezyad.jpg",
 			   "name":"Grow with us",
 			   "description": "Take your event, startup, cafe, restraunt, company etc and publicize infront of 4000+ students. \nEmail us for more details @armyandro@gmail.com",
@@ -22,7 +29,7 @@
         "announcement": [
 			{
 			   "sno":"1",
-			   "text": "Bored of evaristy website? Try out Xvarsity: evarsity with an awesome UI.\nhttps://xvarsity.srmuniv.me/"
+			   "text": "We will reduce the ads in next update. Too busy in placements. Thanks for bearing with us!!"
 			   
 			}
 	]
